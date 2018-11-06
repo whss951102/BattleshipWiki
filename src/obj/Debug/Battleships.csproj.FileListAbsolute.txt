@@ -1,0 +1,5 @@
+C:\BattleshipWiki.wiki\images\bin\Debug\Battleships.exe.config
+C:\BattleshipWiki.wiki\images\bin\Debug\Battleships.exe
+C:\BattleshipWiki.wiki\images\bin\Debug\Battleships.pdb
+C:\BattleshipWiki.wiki\images\src\obj\Debug\Battleships.exe
+C:\BattleshipWiki.wiki\images\src\obj\Debug\Battleships.pdb
